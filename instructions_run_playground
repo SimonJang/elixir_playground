@@ -1,0 +1,14 @@
+Instructions
+
+- Running elixir in interactive mode
+
+docker run -it elixir
+
+- Documentation on code snippets
+
+## Printing to console ##
+
+`IO.puts`
+
+
+## For string use "" and not ''
